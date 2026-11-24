@@ -40,7 +40,7 @@ and the computational economics of language models.
 
 ### 🔬 Research & Experiments
 
-I use Weights & Biases (W&B) to document my ongoing research,
+I use Weights & Biases (W&B) to document my one of the ongoing research,
 log training runs, track experiments, and analyse evaluation results,
 particularly in agentic search and reasoning.
 
